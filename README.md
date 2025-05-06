@@ -1,4 +1,4 @@
-_Hawk = "ohhahtuhthttoouttpwuttuaunbotwo"
+_Hawk = "GGF CHEATS"
 
 local Hawk = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHanki/HawkHUB/main/LibSources/HawkLib.lua", true))()
 
